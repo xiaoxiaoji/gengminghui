@@ -1,0 +1,20 @@
+
+
+.marginleft{
+	margin-left: 60px;
+	margin-bottom: 20px;
+}
+#2{
+float: right;
+}
+
+a{
+	text-decoration: none;
+	color: #C12E2A;
+}
+
+
+a:hover{
+	text-decoration: underline;
+	color: #0479C9;
+}
